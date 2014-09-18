@@ -1,0 +1,10 @@
+== README
+
+There is no setup.  This is a demo rails application for learning purposes.
+
+You may download it freely if you like.  You can find it if you search on
+or for the Agile Web Development book.
+
+
+Please feel free to use a different markup language if you do not plan to run
+<tt>rake doc:app</tt>.
